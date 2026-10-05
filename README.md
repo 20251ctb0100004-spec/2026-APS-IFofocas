@@ -1,20 +1,17 @@
-# Nome do Sistema: o que ele faz, em uma frase
-
-> **Antes de tudo.** Este é o modelo do Projeto Integrador de Análise e Projeto de Sistemas. Se você está lendo isto no seu próprio repositório, deu certo. Troque o título acima pelo nome do seu sistema e por uma frase que diga o que ele faz, preencha a autoria e o cliente e apague este aviso.
+# IFofocas: Portal de notícias, atualizações acadêmicas e acontecimentos da comunidade do IFPR Ponta Grossa
 
 Projeto Integrador de Análise e Projeto de Sistemas, 2026.
 IFPR, Centro de Referência Ponta Grossa. Técnico em Informática Integrado ao Ensino Médio.
 
-**Autoria:** _seu nome, como aparece no AVA_
+**Autoria:** Artur Lacerda da Silva
 
-**Cliente:** _o papel do cliente e a relação dele com você, no máximo com o primeiro nome. Por exemplo, "Dona Rosa, minha avó, que faz marmita por encomenda"._
+**Cliente:** Estudantes e comunidade acadêmica do IFPR Centro de Referência Ponta Grossa (representados por um colega ou representante estudantil).
 
 ## Apresentação do projeto
 
-<!-- Três a cinco frases para quem nunca ouviu falar do seu sistema. Qual é o problema, para quem, e o que o sistema faz a respeito.
-     Escreva depois de terminar a 4.1. É um resumo dela, com as suas palavras. -->
+Os estudantes e servidores do IFPR Centro de Referência Ponta Grossa frequentemente enfrentam falta de centralização nas informações sobre o cotidiano acadêmico, novidades sobre infraestrutura (como os avanços na busca pelo Campus definitivo) e acontecimentos da convivência estudantil. 
 
-_Escreva aqui a apresentação do projeto._
+O **IFofocas** é um portal de notícias e entretenimento colaborativo voltado para a comunidade interna do instituto. O sistema permite a publicação, moderação e leitura de matérias informativas, notícias institucionais e quadros interactivos sobre o cotidiano estudantil, garantindo que as informações circulem de forma organizada, interativa e acessível a todos os alunos e servidores.
 
 ## Documento do projeto
 
